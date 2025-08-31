@@ -1,19 +1,15 @@
-# python-practice
-Hands-on Python practice with small scripts and exercises. Built to strengthen programming fundamentals and prepare for larger projects.
-# 🐍 Python Practice
-
-Welcome to my **Python Practice Repository**!  
-This repo contains small Python scripts and exercises I’m working on as I learn Python.  
-It’s part of my journey to become skilled in **AI, Cybersecurity, and Ethical Hacking**.
-
----
+python-practice
+- Welcome to my **Python Practice Repository**! 
+- Hands-on Python practice with small scripts and exercises. Built to strengthen programming fundamentals and prepare for larger projects. 
+- This repo contains small Python scripts and exercises I’m working on as I learn Python.  
+- It’s part of my journey to become skilled in **AI, Cybersecurity, and Ethical Hacking**.
 
 About
 - Learning Python fundamentals step by step  
 - Building small projects to strengthen problem-solving skills  
-- 🛠Practicing clean code and version control with Git/GitHub  
+- Practicing clean code and version control with Git/GitHub  
 
-📂 Contents
+Contents
 Here are some of the scripts you’ll find in this repo:
 
 1. **hello.py** → First Python script (classic "Hello, World!")  
