@@ -6,7 +6,7 @@ import os
 # ================= Constants =================
 DATA_FILE = "users.json"
 MAX_ATTEMPTS = 3
-MIN_PIN_LENGTH = 8
+MIN_PIN_LENGTH = 6
 
 # ================= Helper Functions =================
 def hash_pin(pin: str) -> str:
